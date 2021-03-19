@@ -7,5 +7,12 @@
   \/_/\/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
   
 <b>Welcome</b> to my profile &#x1f642
+
+{
+  name: Filipe Campos,
+  uname: filipepcampos,
+  university: FEUP
+}
+  
   </code>
 </pre>
