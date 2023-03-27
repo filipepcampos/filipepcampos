@@ -1,0 +1,23 @@
+{
+  "name": "github-readme",
+  "version": "1.0.0",
+  "description": "<div id=\"body\" align=\"center\">   <h1>     Hello, there! I'm Filipe 👋   </h1> </div>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipepcampos/test-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipepcampos/test-actions/issues"
+  },
+  "homepage": "https://github.com/filipepcampos/test-actions#readme",
+  "dependencies": {
+    "fast-xml-parser": "^4.1.3"
+  }
+}

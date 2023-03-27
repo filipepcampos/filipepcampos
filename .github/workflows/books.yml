@@ -1,0 +1,35 @@
+name: Update books list
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '5 0 */1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    - name: Install requirements
+      run: |
+          cd books
+          npm install
+    - name: Get book list
+      env:
+          GOODREADS_USER_ID: ${{ secrets.GOODREADS_USER_ID }}
+      run: node books/index.js > book_list.txt
+    - name: Update README
+      run: |
+          cat README_template.md | sed 's/<\!--BOOK_LIST-->/&/;s//\ncat book_list.txt/e' > README.md
+    - name: Commit update
+      run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "update README.md with book list"
+          git push
