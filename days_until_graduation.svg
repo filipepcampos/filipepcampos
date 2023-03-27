@@ -22,7 +22,7 @@
             }
             @keyframes slider {
                 0% {stroke-dashoffset: 251.327412287; }
-                100% {stroke-dashoffset: 176.25707665663253; }
+                100% {stroke-dashoffset: 176.25544532109978; }
             }
         </style>
         <g clip-path='url(#outer_rectangle)'>
