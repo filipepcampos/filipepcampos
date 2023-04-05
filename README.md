@@ -30,4 +30,5 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [House of Chains (Malazan Book of the Fallen, #4)](https://www.goodreads.com/book/show/55398) by Steven Erikson
+- [The Frugal Wizard’s Handbook for Surviving Medieval England](https://www.goodreads.com/book/show/60531410) by Brandon Sanderson
+- [Midnight Tides (Malazan Book of the Fallen, #5)](https://www.goodreads.com/book/show/345299) by Steven Erikson
