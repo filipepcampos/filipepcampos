@@ -30,4 +30,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Midnight Tides (Malazan Book of the Fallen, #5)](https://www.goodreads.com/book/show/345299) by Steven Erikson
+- [Yumi and the Nightmare Painter](https://www.goodreads.com/book/show/60531416) by Brandon Sanderson
