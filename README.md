@@ -30,4 +30,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Yumi and the Nightmare Painter](https://www.goodreads.com/book/show/60531416) by Brandon Sanderson
+- [Night of Knives (Novels of the Malazan Empire, #1)](https://www.goodreads.com/book/show/458394) by Ian C. Esslemont
