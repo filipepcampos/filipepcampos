@@ -30,4 +30,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Night of Knives (Novels of the Malazan Empire, #1)](https://www.goodreads.com/book/show/458394) by Ian C. Esslemont
+- [The Bonehunters (Malazan Book of the Fallen, #6)](https://www.goodreads.com/book/show/478951) by Steven Erikson
