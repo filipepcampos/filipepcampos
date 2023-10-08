@@ -30,4 +30,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [The Bonehunters (Malazan Book of the Fallen, #6)](https://www.goodreads.com/book/show/478951) by Steven Erikson
+- [The Sunlit Man (The Cosmere)](https://www.goodreads.com/book/show/60531420) by Brandon Sanderson
