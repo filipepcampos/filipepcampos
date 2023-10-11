@@ -30,4 +30,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [The Sunlit Man (The Cosmere)](https://www.goodreads.com/book/show/60531420) by Brandon Sanderson
+- [Reaper's Gale (Malazan Book of the Fallen, #7)](https://www.goodreads.com/book/show/459064) by Steven Erikson
