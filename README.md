@@ -30,4 +30,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Reaper's Gale (Malazan Book of the Fallen, #7)](https://www.goodreads.com/book/show/459064) by Steven Erikson
+- [Toll the Hounds (Malazan Book of the Fallen, #8)](https://www.goodreads.com/book/show/938544) by Steven Erikson
