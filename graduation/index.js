@@ -1,5 +1,5 @@
 const courseStartTime = new Date(`2022-09-12T00:00:00+00:00`).getTime()
-const courseEndTime = new Date(`2024-06-31T23:59:59+00:00`).getTime()
+const courseEndTime = new Date(`2024-07-10T23:59:59+00:00`).getTime()
 const courseDelta = courseEndTime - courseStartTime
 
 const courseTotalDays = Math.ceil(courseDelta / (1000 * 3600 * 24));
