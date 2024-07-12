@@ -17,10 +17,6 @@
 - 🧠 Doing research in the field of Computer Vision
 - 💻 I'm interested in many things related to informatics, ranging from AI to software engineering
 
-<br />
-<br />
-<br />
-
 
 ## 🛰️ Stats:
 
