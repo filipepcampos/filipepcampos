@@ -11,7 +11,7 @@
   </h2>
 </div>
 
-<img align='right' src='/days_until_graduation.svg' style="padding-left: 0px; padding-right: 15px">
+<!-- <img align='right' src='/days_until_graduation.svg' style="padding-left: 0px; padding-right: 15px"> -->
 
 - 🎓 I'm currently in the second year of a Master's degree in Informatics and Computing Engineering at [FEUP](fe.up.pt)
 - 🧠 Doing research in the field of Computer Vision
