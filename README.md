@@ -28,4 +28,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Toll the Hounds (Malazan Book of the Fallen, #8)](https://www.goodreads.com/book/show/938544) by Steven Erikson
+- [Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch](https://www.goodreads.com/book/show/12067) by Terry Pratchett
