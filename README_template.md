@@ -11,12 +11,10 @@
   </h2>
 </div>
 
-- 🎓 I'm currently in the second year of a Master's degree in Informatics and Computing Engineering at [FEUP](fe.up.pt)
+- 🎓 I'm currently a recent graduate with a Master's degree in Informatics and Computing Engineering from [FEUP](fe.up.pt)
 - 🧠 Doing research in the field of Computer Vision
 - 💻 I'm interested in many things related to informatics, ranging from AI to software engineering
 
-<br />
-<br />
 <br />
 
 
