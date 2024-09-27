@@ -11,12 +11,10 @@
   </h2>
 </div>
 
-- 🎓 I'm currently in the second year of a Master's degree in Informatics and Computing Engineering at [FEUP](fe.up.pt)
+- 🎓 I'm currently a recent graduate with a Master's degree in Informatics and Computing Engineering from [FEUP](fe.up.pt)
 - 🧠 Doing research in the field of Computer Vision
 - 💻 I'm interested in many things related to informatics, ranging from AI to software engineering
 
-<br />
-<br />
 <br />
 
 
@@ -28,4 +26,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch](https://www.goodreads.com/book/show/12067) by Terry Pratchett
+- [Edge of the Woods (The Lost Edge #1)](https://www.goodreads.com/book/show/171086553) by Andrew Rowe
