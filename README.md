@@ -26,4 +26,5 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
+- [Hidden Pictures](https://www.goodreads.com/book/show/58724923) by Jason Rekulak
 - [Edge of the Woods (The Lost Edge #1)](https://www.goodreads.com/book/show/171086553) by Andrew Rowe
