@@ -26,4 +26,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Hidden Pictures](https://www.goodreads.com/book/show/58724923) by Jason Rekulak
+- [City of Thieves](https://www.goodreads.com/book/show/1971304) by David Benioff
