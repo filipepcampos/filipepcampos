@@ -25,5 +25,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [This Inevitable Ruin (Dungeon Crawler Carl, #7)](https://www.goodreads.com/book/show/216017751) by Matt Dinniman
 - [City of Thieves](https://www.goodreads.com/book/show/1971304) by David Benioff
