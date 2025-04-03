@@ -25,4 +25,5 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
+- [A Brief History of Chronomancy (Arcane Ascension, #6)](https://www.goodreads.com/book/show/227839115) by Andrew Rowe
 - [Mark of the Fool 6 (Mark of the Fool #6)](https://www.goodreads.com/book/show/199340499) by J.M.     Clarke
