@@ -25,4 +25,5 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
+- [The House in the Cerulean Sea (Cerulean Chronicles, #1)](https://www.goodreads.com/book/show/45047384) by T.J. Klune
 - [Dust of Dreams (Malazan Book of the Fallen, #9)](https://www.goodreads.com/book/show/4703427) by Steven Erikson
