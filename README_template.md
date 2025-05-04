@@ -7,19 +7,12 @@
 
 <div style="border-bottom: 0px">
   <h2>
-    👨‍💻 About me:
+  About:
   </h2>
 </div>
 
-- 💻 Working as a C++ software engineer
-- 🎓 Recent graduate with a Master's degree in Informatics and Computing Engineering from [FEUP](fe.up.pt)
-
-<br />
-
-
-## 🛰️ Stats:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=filipepcampos&theme=github-dark-blue&border_radius=4.5)
+- 💻 Working as a C++ software engineer @Critical Techworks
+- 🎓 [FEUP](fe.up.pt) Informatics and Computing Engineering alumni 
 
 
 ## 🌱 Currently Reading:
