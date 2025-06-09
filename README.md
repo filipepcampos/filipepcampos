@@ -18,4 +18,5 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
+- [Best Served Cold](https://www.goodreads.com/book/show/2315892) by Joe Abercrombie
 - [Dust of Dreams (Malazan Book of the Fallen, #9)](https://www.goodreads.com/book/show/4703427) by Steven Erikson
