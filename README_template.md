@@ -11,8 +11,8 @@
   </h2>
 </div>
 
-- 💻 Working as a C++ software engineer @Critical Techworks
-- 🎓 [FEUP](fe.up.pt) Informatics and Computing Engineering alumni 
+- 💻 Working as a C++ software engineer [@Critical Techworks](https://www.criticaltechworks.com/)
+- 🎓 [FEUP](https://fe.up.pt) Informatics and Computing Engineering alumnus
 
 
 ## 🌱 Currently Reading:
