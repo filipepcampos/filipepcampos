@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Edge of the Dream: An Epic Fantasy Adventure (The Lost Edge, 2)](https://www.goodreads.com/book/show/223673615) by Andrew Rowe
+- [Piranesi](https://www.goodreads.com/book/show/50202953) by Susanna Clarke
