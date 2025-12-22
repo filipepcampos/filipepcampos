@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Piranesi](https://www.goodreads.com/book/show/50202953) by Susanna Clarke
+- [Empire of Silence (The Sun Eater, #1)](https://www.goodreads.com/book/show/36454667) by Christopher Ruocchio
