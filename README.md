@@ -18,4 +18,5 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
+- [The Crippled God (Malazan Book of the Fallen, #10)](https://www.goodreads.com/book/show/8447255) by Steven Erikson
 - [Threshold: Stories from Cradle](https://www.goodreads.com/book/show/221722124) by Will Wight
