@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [A Deadly Education (The Scholomance, #1)](https://www.goodreads.com/book/show/50548197) by Naomi Novik
+- [Exit Strategy (The Murderbot Diaries, #4)](https://www.goodreads.com/book/show/35519109) by Martha Wells
