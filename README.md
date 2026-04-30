@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Exit Strategy (The Murderbot Diaries, #4)](https://www.goodreads.com/book/show/35519109) by Martha Wells
+- [The Song of Achilles](https://www.goodreads.com/book/show/13623848) by Madeline Miller
