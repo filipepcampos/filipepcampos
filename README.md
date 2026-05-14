@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [The Song of Achilles](https://www.goodreads.com/book/show/13623848) by Madeline Miller
+- [A Parade of Horribles (Dungeon Crawler Carl, #8)](https://www.goodreads.com/book/show/228928465) by Matt Dinniman
