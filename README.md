@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [A Parade of Horribles (Dungeon Crawler Carl, #8)](https://www.goodreads.com/book/show/228928465) by Matt Dinniman
+- [The Compound](https://www.goodreads.com/book/show/218460337) by Aisling Rawle
