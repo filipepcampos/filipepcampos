@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [The Compound](https://www.goodreads.com/book/show/218460337) by Aisling Rawle
+- [Men at Arms (Discworld, #15; City Watch, #2)](https://www.goodreads.com/book/show/400354) by Terry Pratchett
