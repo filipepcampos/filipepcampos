@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Men at Arms (Discworld, #15; City Watch, #2)](https://www.goodreads.com/book/show/400354) by Terry Pratchett
+- [Worm (Parahumans, #1)](https://www.goodreads.com/book/show/18713259) by Wildbow
