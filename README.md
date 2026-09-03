@@ -18,5 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [The Shadow of the Torturer](https://www.goodreads.com/book/show/60211) by Gene Wolfe
 - [Worm (Parahumans, #1)](https://www.goodreads.com/book/show/18713259) by Wildbow
