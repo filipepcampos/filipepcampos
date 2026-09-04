@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Worm (Parahumans, #1)](https://www.goodreads.com/book/show/18713259) by Wildbow
+- [Between Two Fires](https://www.goodreads.com/book/show/13543121) by Christopher Buehlman
