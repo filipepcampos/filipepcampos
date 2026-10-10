@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [The Devils (The Devils, #1)](https://www.goodreads.com/book/show/233800039) by Joe Abercrombie
+- [Fourth Wing (The Empyrean, #1)](https://www.goodreads.com/book/show/61431922) by Rebecca Yarros
