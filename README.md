@@ -18,4 +18,4 @@
 ## 🌱 Currently Reading:
 
 If I haven't forgotten to update my goodreads profile, here's the books I'm currently reading:
-- [Fourth Wing (The Empyrean, #1)](https://www.goodreads.com/book/show/61431922) by Rebecca Yarros
+- [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/book/show/90202302) by Rebecca Yarros
